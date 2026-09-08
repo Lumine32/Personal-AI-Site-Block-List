@@ -980,3 +980,6 @@
 ||spca.education^$all
 ||sunoai.asia^$all
 ||diffus.me^$all
+
+! My Personal Additions
+||gemini.google.com^$all
